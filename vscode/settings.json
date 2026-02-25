@@ -1,0 +1,36 @@
+{
+    // editor config
+    "editor.fontSize": 15,
+    "editor.lineHeight": 21,
+    "editor.minimap.enabled": true,
+    "editor.fontFamily": "Menlo, Monaco, Courier New, Hack Nerd Font, monospace",
+
+    //explorer config
+    // "workbench.resource.explorer.enabled": true,
+    "explorer.confirmDelete": false,
+    "explorer.confirmPasteNative": false,
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmMoveNative": false,
+    "explorer.confirmRename": false,
+
+    // terminal config
+    "terminal.integrated.fontFamily": "Hack Nerd Font, monospace, Menlo, Monaco, Courier New",
+    "terminal.integrated.fontSize": 14,
+    "terminal.integrated.lineHeight": 1.1,
+    "terminal.integrated.cursorStyle": "line",
+    "terminal.integrated.cursorWidth": 2,
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.copyOnSelection": true,
+    
+
+    //workbench config
+    "workbench.sideBar.location": "right",
+    "workbench.preferredHighContrastColorTheme": "Default Dark Modern",
+    "workbench.productIconTheme": "material-product-icons",
+
+    //files config
+    "files.associations": {
+    "*.txt": "markdown",
+  }
+}
+
